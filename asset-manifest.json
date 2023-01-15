@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zain783/flixapp.git/static/css/main.e0f04c19.css",
+    "main.js": "/Zain783/flixapp.git/static/js/main.88a5c260.js",
+    "static/js/787.4c6cf0bf.chunk.js": "/Zain783/flixapp.git/static/js/787.4c6cf0bf.chunk.js",
+    "index.html": "/Zain783/flixapp.git/index.html",
+    "main.e0f04c19.css.map": "/Zain783/flixapp.git/static/css/main.e0f04c19.css.map",
+    "main.88a5c260.js.map": "/Zain783/flixapp.git/static/js/main.88a5c260.js.map",
+    "787.4c6cf0bf.chunk.js.map": "/Zain783/flixapp.git/static/js/787.4c6cf0bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f04c19.css",
+    "static/js/main.88a5c260.js"
+  ]
+}
